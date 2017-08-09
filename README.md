@@ -1,22 +1,22 @@
 # OpenGL-3D-Game(Bloxorz)
 
 ##About The Game
-'''
+```
 It is a clone of Bloxorz game implemented in C++ using OpenGL libraries.
-'''
+```
 
 How to Start
-'''
+```
 .make 
 ./sample2D
-'''
+```
 Controls
-'''
+```
 Keyboard arrows(Right,Left,Up,Down)
-'''
+```
 
 Description
-'''
+```
 CUBOID BLOCK: IT IS THE PRINCIPAL ELEMENT OF THE GAME.IT IS MADE OF TWO CUBE OF EQUAL DIMENSIONS.
 
 TILES 
@@ -30,4 +30,4 @@ TILES
 CAMERA: IT HAS DIFFERNT ORIENTATION FOR DIFFERENT VIEWS AND VIEWS ARE AS FOLLOWS:-
 	  TOP VIEW: IT SEES FROM THE TOP OF THE FLOOR PLANE.
 	  TOWER VIEW: ITS LIKE A CAMERA SITTING ON THE TOWER BESIDE THE FLOOR PLAN
-'''
+```
