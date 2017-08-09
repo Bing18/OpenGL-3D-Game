@@ -7,7 +7,7 @@ It is a clone of Bloxorz game implemented in C++ using OpenGL libraries.
 
 How to Start
 ```
-.make 
+make 
 ./sample2D
 ```
 Controls
