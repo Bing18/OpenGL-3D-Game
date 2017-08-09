@@ -1,6 +1,6 @@
 # OpenGL-3D-Game(Bloxorz)
 
-About The Game
+##About The Game
 '''
 It is a clone of Bloxorz game implemented in C++ using OpenGL libraries.
 '''
